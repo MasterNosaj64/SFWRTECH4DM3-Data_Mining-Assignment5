@@ -1,0 +1,3 @@
+#Data Mining - Assignment 5 - SFWRTECH4DM3 - McMaster University - Software Engineering
+
+The assignment involves designing an AdaBoost classifier using decision stumps based on baseball play data related to previous days of rain, and classifying tennis match data from Wimbledon 2013 using AdaBoost in Python. The tasks include converting categorical data to numerical, initializing weights, defining thresholds, and adjusting the classifier through iterations. The second task requires using a provided dataset, splitting it into training and test sets, and reporting the error rate on the test set, with a specific correction in the provided Python code.
